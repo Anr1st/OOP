@@ -1,0 +1,15 @@
+/home/elizaveta/OOP/lab1/bin/Debug/net8.0/lab1
+/home/elizaveta/OOP/lab1/bin/Debug/net8.0/lab1.deps.json
+/home/elizaveta/OOP/lab1/bin/Debug/net8.0/lab1.runtimeconfig.json
+/home/elizaveta/OOP/lab1/bin/Debug/net8.0/lab1.dll
+/home/elizaveta/OOP/lab1/bin/Debug/net8.0/lab1.pdb
+/home/elizaveta/OOP/lab1/obj/Debug/net8.0/lab1.GeneratedMSBuildEditorConfig.editorconfig
+/home/elizaveta/OOP/lab1/obj/Debug/net8.0/lab1.AssemblyInfoInputs.cache
+/home/elizaveta/OOP/lab1/obj/Debug/net8.0/lab1.AssemblyInfo.cs
+/home/elizaveta/OOP/lab1/obj/Debug/net8.0/lab1.csproj.CoreCompileInputs.cache
+/home/elizaveta/OOP/lab1/obj/Debug/net8.0/lab1.sourcelink.json
+/home/elizaveta/OOP/lab1/obj/Debug/net8.0/lab1.dll
+/home/elizaveta/OOP/lab1/obj/Debug/net8.0/refint/lab1.dll
+/home/elizaveta/OOP/lab1/obj/Debug/net8.0/lab1.pdb
+/home/elizaveta/OOP/lab1/obj/Debug/net8.0/lab1.genruntimeconfig.cache
+/home/elizaveta/OOP/lab1/obj/Debug/net8.0/ref/lab1.dll
